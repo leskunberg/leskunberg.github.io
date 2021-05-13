@@ -4,7 +4,7 @@ subtitle: Cybernetics research
 email: leif.skunberg@skunbergcybernetics.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: skunbergcybernetics.com # the base hostname & protocol for your site
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -14,8 +14,8 @@ tiles-count: 6
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
-#socials:
-#  GitHub: https://github.com/andrewbanchich
+socials:
+  GitHub: https://github.com/leskunberg
 #  GitLab:
 #  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
 #  Instagram:
