@@ -1,7 +1,7 @@
 # site settings
 title: Skunberg Cybernetics
 subtitle: 
-email: leif.skunberg@skunbergcybernetics.com
+email: leif@skunbergcybernetics.com
 description: Brain computer interface research and development
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
