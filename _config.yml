@@ -5,7 +5,7 @@ email: leif@skunbergcybernetics.com
 description: Brain computer interface research and development
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author:
+#author:
 city: Fort Collins
 state: Colorado
 country: United States of America
